@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diogo740
+- 👀 I’m interested in  programaçãowww.linkedin.com/in/diogo-miranda-477331199
+- 🌱 I’m currently learning  python
+- 💞️ I’m looking to collaborate on  datascience
+- 📫 How to reach me  em linkedin www.linkedin.com/in/diogo-miranda-477331199
